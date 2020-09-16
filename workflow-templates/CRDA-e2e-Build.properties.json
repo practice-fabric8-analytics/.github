@@ -1,0 +1,13 @@
+{
+    "name": "CRDA E2E build Workflow",
+    "description": "CRDA Organization E2E Build CI workflow template.",
+    "iconName": "icon",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}

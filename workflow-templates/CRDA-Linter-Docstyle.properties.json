@@ -2,6 +2,9 @@
     "name": "CRDA Python Linter Docstyle Workflow",
     "description": "CRDA Organization Python Linter and DOcstyle CI workflow template.",
     "iconName": "icon",
+    "categories": [
+        "Python"
+    ],
     "filePatterns": [
         "package.json$",
         "^Dockerfile",
